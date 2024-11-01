@@ -1,0 +1,13 @@
+{
+    "name": "ochir03/mycore",
+    "description": "core",
+    "type": "project",
+    "authors": [
+        {
+            "name": "0chir03",
+            "email": "oshirvandanov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

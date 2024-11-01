@@ -1,7 +1,13 @@
 {
     "name": "ochir03/mycore",
-    "description": "core",
-    "type": "project",
+    "description": "Mycore",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ochir03\\Mycore\\": "core/"
+        }
+    },
     "authors": [
         {
             "name": "0chir03",

@@ -16,7 +16,7 @@ class ComposerStaticInitb0a28319a772c9a1a123ab2da6d2612a
     public static $prefixDirsPsr4 = array (
         'Ochir03\\Mycore\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/core',
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
